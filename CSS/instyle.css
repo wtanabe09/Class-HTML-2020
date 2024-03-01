@@ -1,0 +1,20 @@
+h1 {
+    background-color:lightgreen;
+    text-align:center;
+}
+
+.gazou {
+    /*background-color:blue;*/
+    padding-top: 50px;
+    text-align:center;
+}
+
+ul :first-child {
+    color:red;
+}
+ul :nth-child(2) {
+    color:blue;
+}
+ul :nth-child(3) {
+    color:green;
+}

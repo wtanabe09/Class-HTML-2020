@@ -1,0 +1,12 @@
+div {text-align: center;}
+
+h1 {
+    color:red;
+}
+
+p {
+    color:green;
+    font-weight:bold;
+}
+
+h2 {text-decoration: line-through;}p {text-decoration: underline;}
